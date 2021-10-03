@@ -1,0 +1,145 @@
+/* screen - a-propos */
+
+.a-propos {
+  background-color: var(--pickled-bluewood);
+  height: 1924px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.a-propos .rectangle-13-gWmfaD {
+  background-color: var(--outer-space);
+  height: 410px;
+  left: 0px;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.a-propos .designer-web-junior-graphiste-gWmfaD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: screen;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  text-shadow: 10px 10px 0px #00000029;
+  top: 52px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 694px;
+}
+
+.a-propos .designer-web-junior-graphiste-gWmfaD:hover {
+  color: #8A8A8A
+}
+
+.a-propos .a-propos-gWmfaD {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-tw_cen_mt);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: auto;
+  left: 1424px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: screen;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  text-shadow: 10px 10px 0px #00000029;
+  top: 52px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 191px;
+}
+
+.a-propos .span0-PUIOjN {
+  color: #3b6475;
+  font-family: var(--font-family-twcen_mt-regular);
+  font-style: normal;
+}
+
+.a-propos .span1-PUIOjN {
+  color: #978c49;
+  font-family: var(--font-family-twcen_mt-regular);
+  font-style: normal;
+}
+
+.a-propos .span2-PUIOjN {
+}
+
+.a-propos .a-propos-gWmfaD:hover {
+  color: #8A8A8A
+}
+
+.a-propos .plan-de-travail-1-gWmfaD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 563px;
+  left: 742px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 66px;
+  transition: all 0.2s ease;
+  width: 563px;
+}
+
+.a-propos .plan-de-travail-1-gWmfaD:hover {
+  background-color: #8A8A8A
+}
+
+.a-propos .ligne-1-gWmfaD {
+  background-color: transparent;
+  height: 4px;
+  left: 1434px;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 171px;
+}
+
+.a-propos .x2021-gWmfaD {
+  background-color: transparent;
+  height: auto;
+  left: 987px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 353px;
+  width: 219px;
+}
+
+.a-propos .contact-gWmfaD {
+  background-color: transparent;
+  color: #fffefe;
+  cursor: pointer;
+  font-family: var(--font-family-twcen_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 302px;
+  left: 1650px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  transition: all 0.2s ease;
+  width: 302px;
+}
+
+.a-propos .contact-gWmfaD:hover {
+  color: #8A8A8A
+}

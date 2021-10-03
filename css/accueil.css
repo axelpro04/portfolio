@@ -1,0 +1,1078 @@
+/* screen - accueil */
+
+.accueil {
+  background-color: var(--pickled-bluewood);
+  height: 23235px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.accueil .rectangle-11-VrjPOw {
+  background-color: var(--white);
+  height: 592px;
+  left: -14px;
+  position: absolute;
+  top: 2755px;
+  width: 1968px;
+}
+
+.accueil .rectangle-10-VrjPOw {
+  background-color: var(--white);
+  height: 570px;
+  left: -24px;
+  position: absolute;
+  top: 1616px;
+  width: 1968px;
+}
+
+.accueil .rectangle-7-VrjPOw {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 389px;
+  left: 100px;
+  position: absolute;
+  top: 529px;
+  width: 740px;
+}
+
+.accueil .rectangle-1-VrjPOw {
+  background-color: var(--outer-space);
+  height: 410px;
+  left: 0px;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.accueil .designer-web-junior-graphiste-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: screen;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  text-shadow: 10px 10px 0px #00000029;
+  top: 52px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 694px;
+}
+
+.accueil .designer-web-junior-graphiste-VrjPOw:hover {
+  color: #8A8A8A
+}
+
+.accueil .a-propos-VrjPOw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1421px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: screen;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  text-shadow: 10px 10px 0px #00000029;
+  top: 52px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 198px;
+}
+
+.accueil .a-propos-VrjPOw:hover {
+  color: #8A8A8A
+}
+
+.accueil .plan-de-travail-1-VrjPOw {
+  background-color: transparent;
+  height: 563px;
+  left: 739px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 66px;
+  transition: all 0.2s ease;
+  width: 563px;
+}
+
+.accueil .plan-de-travail-1-VrjPOw:hover {
+  background-color: #8A8A8A
+}
+
+.accueil .x2021-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 987px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 353px;
+  width: 219px;
+}
+
+.accueil .amelio-VrjPOw {
+  background-color: transparent;
+  height: 450px;
+  left: 939px;
+  object-fit: cover;
+  position: absolute;
+  top: 2783px;
+  width: 912px;
+}
+
+.accueil .rectangle-9-VrjPOw {
+  background-color: var(--white);
+  height: 640px;
+  left: -33px;
+  position: absolute;
+  top: 474px;
+  width: 1968px;
+}
+
+.accueil .rectangle-8-VrjPOw {
+  background-color: var(--white);
+  border-radius: 11px;
+  height: 388px;
+  left: 747px;
+  position: absolute;
+  top: 672px;
+  width: 202px;
+}
+
+.accueil .capture-VrjPOw {
+  background-color: transparent;
+  height: 367px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 538px;
+  width: 720px;
+}
+
+.accueil .g-VrjPOw {
+  background-color: transparent;
+  height: 368px;
+  left: 755px;
+  object-fit: cover;
+  position: absolute;
+  top: 682px;
+  width: 185px;
+}
+
+.accueil .projet1-gh-VrjPOw {
+  background-color: transparent;
+  height: 552px;
+  left: 973px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 521px;
+  transition: all 0.2s ease;
+  width: 882px;
+}
+
+.accueil .projet1-gh-VrjPOw:hover {
+  transform: scale(1.1);
+}
+
+.accueil .dede-VrjPOw {
+  background-color: transparent;
+  height: 418px;
+  left: 970px;
+  object-fit: cover;
+  position: absolute;
+  top: 1690px;
+  width: 846px;
+}
+
+.accueil .exemple-2-projet-VrjPOw {
+  background-color: transparent;
+  height: 515px;
+  left: 77px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1642px;
+  transition: all 0.2s ease;
+  width: 824px;
+}
+
+.accueil .exemple-2-projet-VrjPOw:hover {
+  transform: scale(1.1);
+}
+
+.accueil .azee-VrjPOw {
+  background-color: transparent;
+  height: 396px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 2928px;
+  width: 189px;
+}
+
+.accueil .projet3-VrjPOw {
+  background-color: transparent;
+  height: 475px;
+  left: 71px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2815px;
+  transition: all 0.2s ease;
+  width: 760px;
+}
+
+.accueil .projet3-VrjPOw:hover {
+  transform: scale(1.1);
+}
+
+.accueil .rectangle-12-VrjPOw {
+  background-color: var(--white);
+  height: 620px;
+  left: -24px;
+  position: absolute;
+  top: 3873px;
+  width: 1968px;
+}
+
+.accueil .deda-VrjPOw {
+  background-color: transparent;
+  height: 399px;
+  left: 848px;
+  object-fit: cover;
+  position: absolute;
+  top: 3893px;
+  width: 717px;
+}
+
+.accueil .pizaa-VrjPOw {
+  background-color: transparent;
+  height: 292px;
+  left: 1350px;
+  object-fit: cover;
+  position: absolute;
+  top: 4119px;
+  width: 520px;
+}
+
+.accueil .momo-VrjPOw {
+  background-color: transparent;
+  height: 296px;
+  left: 791px;
+  object-fit: cover;
+  position: absolute;
+  top: 4176px;
+  width: 140px;
+}
+
+.accueil .exemple-1-projet-VrjPOw {
+  background-color: transparent;
+  height: 444px;
+  left: 46px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3954px;
+  transition: all 0.2s ease;
+  width: 710px;
+}
+
+.accueil .exemple-1-projet-VrjPOw:hover {
+  transform: scale(1.1);
+}
+
+.accueil .contact-VrjPOw {
+  background-color: transparent;
+  color: #fffefe;
+  cursor: pointer;
+  font-family: var(--font-family-twcen_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 302px;
+  left: 1650px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  transition: all 0.2s ease;
+  width: 302px;
+}
+
+.accueil .contact-VrjPOw:hover {
+  color: #8A8A8A
+}
+
+.accueil .rectangle-23-VrjPOw {
+  background-color: var(--white);
+  height: 1095px;
+  left: 0px;
+  position: absolute;
+  top: 5020px;
+  width: 1968px;
+}
+
+.accueil .axel-lefevre-ecoloc-VrjPOw {
+  background-color: transparent;
+  height: 1095px;
+  left: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 5020px;
+  width: 519px;
+}
+
+.accueil .axel-brochure-ecoloc2-VrjPOw {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 706px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 5375px;
+  width: 499px;
+}
+
+.accueil .trac-17-VrjPOw {
+  background-color: transparent;
+  height: 186px;
+  left: 1297px;
+  object-fit: cover;
+  position: absolute;
+  top: 5231px;
+  width: 554px;
+}
+
+.accueil .cration-dune-ma-on-pour-le-site-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 1339px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 5261px;
+  width: 501px;
+}
+
+.accueil .rectangle-25-VrjPOw {
+  background-color: var(--white);
+  height: 1740px;
+  left: -48px;
+  position: absolute;
+  top: 6834px;
+  width: 1968px;
+}
+
+.accueil .plan-de-travail-2-VrjPOw {
+  background-color: transparent;
+  height: 1740px;
+  left: 361px;
+  object-fit: cover;
+  position: absolute;
+  top: 6834px;
+  width: 528px;
+}
+
+.accueil .plan-de-travail-1-riPxv4 {
+  background-color: transparent;
+  height: 993px;
+  left: 936px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 7190px;
+  transition: all 0.2s ease;
+  width: 426px;
+}
+
+.accueil .plan-de-travail-1-riPxv4:hover {
+  transform: translate(0, -5px);
+}
+
+.accueil .rectangle-26-VrjPOw {
+  background-color: var(--white);
+  border-radius: 24px;
+  height: 186px;
+  left: 1192px;
+  position: absolute;
+  top: 8126px;
+  width: 554px;
+}
+
+.accueil .refonte-dune-pa-i-nest-pas-jour-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 1267px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 8175px;
+  width: 501px;
+}
+
+.accueil .projet-n5-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 905px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 5138px;
+  white-space: nowrap;
+  width: 361px;
+}
+
+.accueil .projet-n6-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 1267px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 7005px;
+  white-space: nowrap;
+  width: 361px;
+}
+
+.accueil .rectangle-27-VrjPOw {
+  background-color: var(--white);
+  height: 1425px;
+  left: -48px;
+  position: absolute;
+  top: 9487px;
+  width: 1968px;
+}
+
+.accueil .hacka-VrjPOw {
+  background-color: transparent;
+  height: 480px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 10304px;
+  width: 954px;
+}
+
+.accueil .hav-VrjPOw {
+  background-color: transparent;
+  height: 610px;
+  left: 572px;
+  object-fit: cover;
+  position: absolute;
+  top: 9887px;
+  width: 1208px;
+}
+
+.accueil .rectangle-28-VrjPOw {
+  background-color: var(--white);
+  border-radius: 24px;
+  height: 186px;
+  left: 125px;
+  position: absolute;
+  top: 9599px;
+  width: 554px;
+}
+
+.accueil .cration-dun-jeu-avec-scoreboard-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 171px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 9620px;
+  width: 501px;
+}
+
+.accueil .projet-n7-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 1030px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 9620px;
+  white-space: nowrap;
+  width: 361px;
+}
+
+.accueil .rectangle-29-VrjPOw {
+  background-color: var(--white);
+  height: 1332px;
+  left: -48px;
+  position: absolute;
+  top: 12020px;
+  width: 1968px;
+}
+
+.accueil .caf-fume-VrjPOw {
+  background-color: transparent;
+  height: 575px;
+  left: -48px;
+  object-fit: cover;
+  position: absolute;
+  top: 12534px;
+  width: 575px;
+}
+
+.accueil .fume-VrjPOw {
+  background-color: transparent;
+  height: 862px;
+  left: -186px;
+  object-fit: cover;
+  position: absolute;
+  top: 12406px;
+  width: 862px;
+}
+
+.accueil .caf-VrjPOw {
+  background-color: transparent;
+  height: 520px;
+  left: 405px;
+  pointer-events: auto;
+  position: absolute;
+  top: 12800px;
+  transition: all 0.2s ease;
+  width: 462px;
+}
+
+.accueil .caf-VrjPOw:hover {
+  transform: scale(0.9); 
+}
+
+.accueil .ellipse-1-HeKeXM {
+  background-color: #5eb45b;
+  border: 0.5px solid #a5531d;
+  border-radius: 120.32px;
+  bottom: 64px;
+  height: 241px;
+  left: calc(42.67% - 103px);
+  opacity: 0.71;
+  position: absolute;
+  width: 241px;
+}
+
+.accueil .trac-1-HeKeXM {
+  background-color: transparent;
+  bottom: 62px;
+  height: 244px;
+  left: calc(42.69% - 103px);
+  object-fit: cover;
+  position: absolute;
+  width: 242px;
+}
+
+.accueil .rectangle-21-HeKeXM {
+  background-color: #a4531d;
+  bottom: 32.87%;
+  height: 1px;
+  left: calc(34.77% - 1px);
+  position: absolute;
+  transform: rotate(-14.90deg);
+  width: 2px;
+}
+
+.accueil .trac-2-HeKeXM {
+  background-color: transparent;
+  bottom: 64px;
+  height: 144px;
+  left: calc(48.09% - 56px);
+  object-fit: cover;
+  position: absolute;
+  width: 116px;
+}
+
+.accueil .svgidx5-f1x5-f-HeKeXM {
+  background-color: transparent;
+  bottom: calc(29.61% - 40px);
+  height: 135px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(32.44% - 29px);
+  width: 89px;
+}
+
+.accueil .svgidx5-f2x5-f-HeKeXM {
+  background-color: transparent;
+  bottom: calc(40.21% - 49px);
+  height: 121px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(36.14% - 35px);
+  width: 96px;
+}
+
+.accueil .svgidx5-f3x5-f-HeKeXM {
+  background-color: transparent;
+  bottom: 1px;
+  height: 111px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 108px;
+}
+
+.accueil .trac-3-HeKeXM {
+  background-color: transparent;
+  bottom: 62px;
+  height: 144px;
+  left: calc(48.14% - 54px);
+  object-fit: cover;
+  position: absolute;
+  width: 112px;
+}
+
+.accueil .trac-4-HeKeXM {
+  background-color: transparent;
+  bottom: calc(36.17% - 26px);
+  height: 73px;
+  left: calc(44.47% - 54px);
+  object-fit: cover;
+  position: absolute;
+  width: 122px;
+}
+
+.accueil .trac-5-HeKeXM {
+  background-color: transparent;
+  bottom: calc(37.07% - 22px);
+  height: 60px;
+  left: calc(44.44% - 53px);
+  object-fit: cover;
+  position: absolute;
+  width: 119px;
+}
+
+.accueil .trac-6-HeKeXM {
+  background-color: transparent;
+  bottom: calc(40.67% - 10px);
+  height: 26px;
+  left: calc(44.00% - 43px);
+  object-fit: cover;
+  position: absolute;
+  width: 98px;
+}
+
+.accueil .trac-7-HeKeXM {
+  background-color: transparent;
+  bottom: calc(33.39% - 12px);
+  height: 37px;
+  left: calc(45.60% - 51px);
+  object-fit: cover;
+  position: absolute;
+  width: 111px;
+}
+
+.accueil .trac-8-HeKeXM {
+  background-color: transparent;
+  bottom: calc(34.65% - 12px);
+  height: 33px;
+  left: calc(45.26% - 48px);
+  object-fit: cover;
+  position: absolute;
+  width: 106px;
+}
+
+.accueil .ellipse-2-HeKeXM {
+  background-color: transparent;
+  border: 2px solid var(--white);
+  border-radius: 55.9px/12.39px;
+  bottom: calc(42.09% - 11px);
+  height: 27px;
+  left: calc(43.24% - 49px);
+  position: absolute;
+  transform: rotate(-11.37deg);
+  width: 114px;
+}
+
+.accueil .ellipse-3-HeKeXM {
+  background-color: var(--white);
+  border: 2px solid #010202;
+  border-radius: 55.9px/13.27px;
+  bottom: calc(41.61% - 12px);
+  height: 29px;
+  left: calc(43.40% - 49px);
+  position: absolute;
+  transform: rotate(-11.37deg);
+  width: 114px;
+}
+
+.accueil .trac-9-HeKeXM {
+  background-color: transparent;
+  bottom: calc(40.85% - 11px);
+  height: 27px;
+  left: calc(44.19% - 43px);
+  object-fit: cover;
+  position: absolute;
+  width: 98px;
+}
+
+.accueil .trac-10-HeKeXM {
+  background-color: transparent;
+  bottom: 60px;
+  height: 248px;
+  left: calc(42.52% - 105px);
+  object-fit: cover;
+  position: absolute;
+  width: 248px;
+}
+
+.accueil .svgidx5-f4x5-f-HeKeXM {
+  background-color: transparent;
+  height: 290px;
+  left: calc(36.18% - 95px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 262px;
+}
+
+.accueil .baristo-HeKeXM {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-rodano-italic);
+  font-size: var(--font-size-xxl);
+  font-style: italic;
+  font-weight: 400;
+  height: 71px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 52.7px;
+  position: absolute;
+  text-align: left;
+  top: calc(23.60% - 17px);
+  white-space: nowrap;
+  width: 229px;
+}
+
+.accueil .groupe-1-HeKeXM {
+  background-color: transparent;
+  height: 74px;
+  left: calc(35.69% - 10px);
+  position: absolute;
+  top: calc(46.96% - 35px);
+  width: 27px;
+}
+
+.accueil .trac-11-xx3dd6 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.accueil .trac-12-xx3dd6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.accueil .groupe-2-HeKeXM {
+  background-color: transparent;
+  height: 73px;
+  left: calc(42.85% - 9px);
+  position: absolute;
+  top: calc(46.13% - 34px);
+  width: 22px;
+}
+
+.accueil .trac-13-DEue2b {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.accueil .trac-14-DEue2b {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.accueil .groupe-3-HeKeXM {
+  background-color: transparent;
+  height: 71px;
+  left: calc(49.06% - 9px);
+  position: absolute;
+  top: calc(45.37% - 32px);
+  width: 18px;
+}
+
+.accueil .trac-15-U35frr {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+
+.accueil .trac-16-U35frr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.accueil .flyers1-VrjPOw {
+  background-color: transparent;
+  height: 1332px;
+  left: 856px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 12020px;
+  transition: all 0.2s ease;
+  width: 941px;
+}
+
+.accueil .flyers1-VrjPOw:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.accueil .projet-n8-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 213px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 12146px;
+  white-space: nowrap;
+  width: 361px;
+}
+
+.accueil .rectangle-30-VrjPOw {
+  background-color: var(--white);
+  border-radius: 24px;
+  height: 186px;
+  left: 116px;
+  position: absolute;
+  top: 12337px;
+  width: 554px;
+}
+
+.accueil .cration-dun-log-avec-un-slogan-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 156px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 12368px;
+  width: 501px;
+}
+
+.accueil .rectangle-31-VrjPOw {
+  background-color: var(--white);
+  height: 3334px;
+  left: 0px;
+  position: absolute;
+  top: 14358px;
+  width: 1968px;
+}
+
+.accueil .version-web-1-VrjPOw {
+  background-color: transparent;
+  height: 2059px;
+  left: 1014px;
+  object-fit: cover;
+  position: absolute;
+  top: 14390px;
+  width: 763px;
+}
+
+.accueil .plan-de-travail-3-VrjPOw {
+  background-color: transparent;
+  height: 429px;
+  left: 143px;
+  object-fit: cover;
+  position: absolute;
+  top: 15089px;
+  width: 429px;
+}
+
+.accueil .mmmp-VrjPOw {
+  background-color: transparent;
+  height: 459px;
+  left: 398px;
+  object-fit: cover;
+  position: absolute;
+  top: 15490px;
+  width: 459px;
+}
+
+.accueil .da-VrjPOw {
+  background-color: transparent;
+  height: 382px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 15949px;
+  width: 196px;
+}
+
+.accueil .version-web-accueil-VrjPOw {
+  background-color: transparent;
+  height: 717px;
+  left: 420px;
+  object-fit: cover;
+  position: absolute;
+  top: 16554px;
+  width: 1274px;
+}
+
+.accueil .version-mobile-accueil-navbar-VrjPOw {
+  background-color: transparent;
+  height: 698px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 16869px;
+  width: 323px;
+}
+
+.accueil .rectangle-32-VrjPOw {
+  background-color: var(--white);
+  height: 4484px;
+  left: -24px;
+  position: absolute;
+  top: 18595px;
+  width: 1968px;
+}
+
+.accueil .affiche1-VrjPOw {
+  background-color: transparent;
+  height: 1186px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 19021px;
+  width: 838px;
+}
+
+.accueil .affiche3-VrjPOw {
+  background-color: transparent;
+  height: 1185px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 21758px;
+  width: 838px;
+}
+
+.accueil .affiche2-VrjPOw {
+  background-color: transparent;
+  height: 1181px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 20392px;
+  width: 835px;
+}
+
+.accueil .projet-n9-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 296px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 14506px;
+  white-space: nowrap;
+  width: 361px;
+}
+
+.accueil .rectangle-33-VrjPOw {
+  background-color: var(--white);
+  border-radius: 24px;
+  height: 186px;
+  left: 199px;
+  position: absolute;
+  top: 14697px;
+  width: 554px;
+}
+
+.accueil .cration-dune-ma-ent-et-dun-logo-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 227px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 14733px;
+  width: 501px;
+}
+
+.accueil .projet-n10-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 1274px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 18789px;
+  white-space: nowrap;
+  width: 444px;
+}
+
+.accueil .rectangle-34-VrjPOw {
+  background-color: var(--white);
+  border-radius: 24px;
+  height: 186px;
+  left: 1162px;
+  position: absolute;
+  top: 19080px;
+  width: 554px;
+}
+
+.accueil .cration-de-plus-pour-un-client-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 1190px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 19116px;
+  width: 501px;
+}

@@ -1,0 +1,429 @@
+/* screen - contact */
+
+.contact {
+  background-color: var(--pickled-bluewood);
+  height: 1924px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.contact .rectangle-13-DhmS6L {
+  background-color: var(--outer-space);
+  height: 410px;
+  left: 0px;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.contact .designer-web-junior-graphiste-DhmS6L {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: screen;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  text-shadow: 10px 10px 0px #00000029;
+  top: 52px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 694px;
+}
+
+.contact .designer-web-junior-graphiste-DhmS6L:hover {
+  color: #8A8A8A
+}
+
+.contact .a-propos-DhmS6L {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1424px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: screen;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  text-shadow: 10px 10px 0px #00000029;
+  top: 52px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 198px;
+}
+
+.contact .a-propos-DhmS6L:hover {
+  color: #8A8A8A
+}
+
+.contact .plan-de-travail-1-DhmS6L {
+  background-color: transparent;
+  cursor: pointer;
+  height: 563px;
+  left: 742px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 66px;
+  transition: all 0.2s ease;
+  width: 563px;
+}
+
+.contact .plan-de-travail-1-DhmS6L:hover {
+  background-color: #8A8A8A
+}
+
+.contact .ligne-1-DhmS6L {
+  background-color: transparent;
+  height: 5px;
+  left: 1665px;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 162px;
+}
+
+.contact .x2021-DhmS6L {
+  background-color: transparent;
+  height: auto;
+  left: 987px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 353px;
+  width: 219px;
+}
+
+.contact .rectangle-14-DhmS6L {
+  background-color: #262626;
+  border: 1px solid var(--dove-gray);
+  border-radius: 45px;
+  height: 1198px;
+  left: 423px;
+  opacity: 0.35;
+  position: absolute;
+  top: 534px;
+  width: 1103px;
+}
+
+.contact .rectangle-15-DhmS6L {
+  background-color: var(--white);
+  border-radius: 45px;
+  height: 1251px;
+  left: 396px;
+  position: absolute;
+  top: 458px;
+  width: 1103px;
+}
+
+.contact .rectangle-16-DhmS6L {
+  background-color: var(--white);
+  border-radius: 42px;
+  height: 86px;
+  left: 725px;
+  position: absolute;
+  top: 629px;
+  width: 665px;
+}
+
+.contact .nom-DhmS6L {
+  background-color: transparent;
+  height: auto;
+  left: 725px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 560px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.contact .rectangle-17-DhmS6L {
+  background-color: var(--white);
+  border-radius: 42px;
+  height: 86px;
+  left: 725px;
+  position: absolute;
+  top: 805px;
+  width: 665px;
+}
+
+.contact .rectangle-18-DhmS6L {
+  background-color: var(--white);
+  border-radius: 42px;
+  height: 86px;
+  left: 725px;
+  position: absolute;
+  top: 981px;
+  width: 665px;
+}
+
+.contact .prnom-DhmS6L {
+  background-color: transparent;
+  height: auto;
+  left: 725px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 735px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.contact .mail-DhmS6L {
+  background-color: transparent;
+  height: auto;
+  left: 725px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 911px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.contact .rectangle-19-DhmS6L {
+  background-color: var(--white);
+  border-radius: 42px;
+  height: 464px;
+  left: 725px;
+  position: absolute;
+  top: 1157px;
+  width: 665px;
+}
+
+.contact .message-DhmS6L {
+  background-color: transparent;
+  height: auto;
+  left: 725px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 1087px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.contact .vous-souhaitez-act-nhsitez-pas-DhmS6L {
+  background-color: transparent;
+  height: auto;
+  left: 515px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 497px;
+  white-space: nowrap;
+  width: 896px;
+}
+
+.contact .facebook-DhmS6L {
+  background-color: transparent;
+  height: 53px;
+  left: 419px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 596px;
+  transition: all 0.2s ease;
+  width: 53px;
+}
+
+.contact .facebook-DhmS6L:hover {
+  background-color: #8A8A8A
+}
+
+.contact .axel-lefevre-DhmS6L {
+  background-color: transparent;
+  height: auto;
+  left: 477px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 629px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.contact .axel-lefevre-DhmS6L:hover {
+  color: #8A8A8A
+}
+
+.contact .twitter-DhmS6L {
+  background-color: transparent;
+  height: 41px;
+  left: 422px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 684px;
+  transition: all 0.2s ease;
+  width: 41px;
+}
+
+.contact .twitter-DhmS6L:hover {
+  background-color: #8A8A8A
+}
+
+.contact .lefevreaxel10-DhmS6L {
+  background-color: transparent;
+  height: auto;
+  left: 472px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 698px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.contact .lefevreaxel10-DhmS6L:hover {
+  color: #8A8A8A
+}
+
+.contact .linkedin-DhmS6L {
+  background-color: transparent;
+  height: 39px;
+  left: 423px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 760px;
+  transition: all 0.2s ease;
+  width: 39px;
+}
+
+.contact .linkedin-DhmS6L:hover {
+  background-color: #8A8A8A
+}
+
+.contact .axel-lefevre-QYcqwi {
+  background-color: transparent;
+  height: auto;
+  left: 477px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 777px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.contact .axel-lefevre-QYcqwi:hover {
+  color: #8A8A8A
+}
+
+.contact .discorde-DhmS6L {
+  background-color: transparent;
+  height: 44px;
+  left: 421px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 842px;
+  transition: all 0.2s ease;
+  width: 44px;
+}
+
+.contact .discorde-DhmS6L:hover {
+  background-color: #8A8A8A
+}
+
+.contact .axelzzzz-DhmS6L {
+  background-color: transparent;
+  height: auto;
+  left: 477px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 858px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.contact .axelzzzz-DhmS6L:hover {
+  color: #8A8A8A
+}
+
+.contact .rectangle-20-DhmS6L {
+  background-color: var(--pickled-bluewood);
+  border-radius: 33px;
+  height: 55px;
+  left: 462px;
+  position: absolute;
+  top: 1566px;
+  width: 227px;
+}
+
+.contact .envoyez-DhmS6L {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-twcen_mt-regular);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 523px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1575px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.contact .envoyez-DhmS6L:hover {
+  color: #8A8A8A
+}
+
+.contact .contact-DhmS6L {
+  background-color: transparent;
+  color: var(--hoki);
+  font-family: var(--font-family-twcen_mt-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 41px;
+  left: 1650px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 302px;
+}
+
+.contact .contact-DhmS6L:hover {
+  color: #8A8A8A
+}
